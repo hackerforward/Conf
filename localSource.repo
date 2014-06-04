@@ -1,0 +1,5 @@
+[rhel6]
+name= arhel6
+baseurl=file:///var/ftp/rhel6
+enable=1
+gpgcheck=0
