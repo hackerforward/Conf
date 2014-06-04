@@ -3,7 +3,7 @@ Conf
 
 personal computer configure
 
-__.dir_colors__  Color file for linux shell
+__.dir_colors__  (Conf/.dir_colors) Color file for linux shell
 
 **.vimrc** config file for vim
 
