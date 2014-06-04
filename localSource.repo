@@ -1,5 +1,7 @@
 [rhel6]
 name= arhel6
+
+# directory that contians install files which are copied from DVD or iso image
 baseurl=file:///var/ftp/rhel6
 enable=1
 gpgcheck=0
